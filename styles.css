@@ -230,7 +230,10 @@ body {
 .additional-info__education-header {
   color: var(--secondary-text-color);
   text-align: left;
-  margin-bottom: 20px;
+}
+
+.additional-info__education-university {
+  margin-bottom: 15px;
 }
 
 .additional-info__education-university-durability {
@@ -243,7 +246,6 @@ body {
 .additional-info__education-university-speciality {
   color: var(--primary-text-color);
   text-align: left;
-  margin-bottom: 10px;
 }
 
 .additional-info__education-university-name {
@@ -257,7 +259,7 @@ body {
 .additional-info__languages-header {
   color: var(--secondary-text-color);
   text-align: left;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 
 .additional-info__languages-item {
